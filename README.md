@@ -9,6 +9,7 @@ I'm a data scientist who loves to solve problems and create solutions. I'm passi
 <div style="display: inline_block">
 	<img align="center" alt="python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 	<img align="center" alt="pytorch" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+	<img align="center" alt="tensorflow" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 	<img align="center" alt="sqlite" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 	<img align="center" alt="postgresql" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 	<img align="center" alt="numpy" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
